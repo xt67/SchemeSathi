@@ -1,0 +1,268 @@
+{
+  "profile_1": [
+    {
+      "scheme_name": "Financial Assistance To Cultural Organizations With National Presence",
+      "match_score": 100,
+      "why_eligible": "Age up to 25; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "Age up to 25",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "An Organization would normally be given financial assistance amounting to ₹1.00 crore. The financial assistance by the Ministry would be limited to ₹2.00 crores only. However, the amount may be enhanced up to ₹5.00 crores in exceptional/deserving cases, with the approval of HCM. Assistance under the scheme to an Organization will be restricted to a maximum of 67% of the approved cost, subject to the ceilings given above. The balance 33% of the approved cost is to be incurred by the Organization as its ‘matching share’ (other than the contribution by State/UT Government/Union Ministries/PSUs/Universities etc.)",
+      "documents": "Constitution of the Organization Constitution of the Board of Management of Governing Body and particulars of each member Copy of the latest available Annual Report A statement of income and expenditure of the applicant organization for the previous three years and a copy of the balance sheet for the previous. An Indemnity Bond in the prescribed Performa on a stamp paper of appropriate denomination. Details of the bank account in the prescribed Pro forma to enable electronic transfer of sanctioned grant. A detailed project report including: Description of the project for which assistance is required along with its duration. The financial statement of the project gives item-wise details of recurring and non recurring expenditure separately. The source(s) from which counterpart funds will be obtained.",
+      "application_link": "Step 01: Advertisement to call applications from eligible organizations will be uploaded on the official website of the Ministry of Culture. https://indiaculture.gov.in ﻿ Step 02: The eligible applicant organizations should submit two copies of the applications , complete in all respect at the address mentioned below: Section Officer (P. Arts. I), Room No.205, 2nd Floor, ‘D’ – Block, Puratatva Bhawan, GPO Complex, INA, New Delhi-110023 Note 01: Each and every page of the application and enclosures must be signed by the authorized signatory & stamped with the seal of the organization. Note 02: Cultural organizations must submit their two copies of applications/proposals in two separate file covers. Note 03: All papers of the applications/proposals must be page numbered (on the top right-hand corner) in a back-to-back fashion. Note 04: The applicant cultural organizations must attach an Index on top of the application/proposal clearly showing the page number at which various required documents, etc. are placed in the application/proposal. Note 05: The applications duly filed in prescribed Pro forma should be recommended by the Cultural Department/Wing of the concerned Central Government/State Government/UT Administration or any of the Zonal Cultural Centers of the Ministry of Culture/National Academies including National School of Drama(NSD), Sangeet Natak Academy(SNA), Lalit Kala Akademy(LKA), CCRT, Indira Gandhi National Centre for Arts(IGCNA) and bodies of similar stature and should be routed through these Organizations only. However, the Ministry of Culture will have the discretion to entertain an application directly. Note 06: Canvassing by the applicant organizations in any form will be a disqualification for financial assistance.",
+      "eligibility_text": "The applicant Organization should, in order to qualify for grant, have a properly constituted managing body or governing body or governing council with its powers, duties and responsibilities clearly defined and laid down in the form of a written constitution. It should have facilities, resources, personnel and experience to take up the project for which grant is required. The Applicant Organization should be registered in India having an all India Character with national presence and should have operational presence at national/international level. The activities of the organization should be primarily or significantly cultural. The Organization should have capacity to do at least 20 events/programmes in a year. The Organization should have adequate working strength artistes/staff/volunteers. The Organization should have spent ₹1 crore or more during 3 of the last 5 years on cultural activities. Financial assistance will be given for all or any of the items listed below: Normally up to 25% of total Govt. grant may be utilized for Maintenance (Salary of staff, Office Expenses, Miscellaneous Expenses) and Construction/Repairs/Extension/Restoration/Renovation of the Building of the Institute/Organization/Culture focused on promotion of Art & Culture. Normally up to 75% of the total Govt. grant should in any case be utilized for Payment of Honorarium and other miscellaneous expenses on showcasing/production of events important to the preservation or promotion of cultural heritage and arts including Research Projects on promotion of Art & Culture."
+    },
+    {
+      "scheme_name": "Karma Veer Dadasaheb Gaikwad Sabalikaran & Swabhiman Yojana",
+      "match_score": 100,
+      "why_eligible": "Age between 18 and 60; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "Age between 18 and 60",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "The beneficiary is provided with 2-acre irrigated land or 4-acre non-irrigated land on 50% of the subsidy and 50% is loan.",
+      "documents": "BPL Card Aadhaar Card. Proof of Age (Birth Certificate, Marksheet of Class 10th/12th, etc) 2-Passport Sized Photograph (Signed Across) Residential Certificate / Domicile Certificate of the State of Maharashtra. Caste Certificate and/or Certificate mentioning \"Nau Bouddha\" or \"Converted Buddhist\" or \"Neo Buddhist\" issued by the Revenue Department, Govt. of Maharashtra. Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc). Any other document required by the District Social Welfare Office.",
+      "application_link": "Step 1: Visit the District Social Welfare Office , and request a hard copy of the format of the application form for the scheme from the concerned authority. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self-attested) mandatory documents. Step 3: Submit the duly filled and signed application form along with the documents to the Assistant Commissioner, District Social Welfare Office. Step 4: Acquire the receipt/acknowledgment of the successful submission of the application form from the District Social Welfare Office.",
+      "eligibility_text": "The applicant should be a citizen of India. The applicant should be a permanent resident of Maharashtra State. The applicant should be in the 18 to 60 years age group. The applicant should be from Scheduled Caste or should be a Nav-Buddhists. The applicant should be landless. The applicant should be from the \"Below Poverty Line\" category."
+    },
+    {
+      "scheme_name": "Mahila Kisan Yojana (Maharashtra)",
+      "match_score": 100,
+      "why_eligible": "Age between 18 and 50; Income <= 120000; State matched",
+      "matched_rules": [
+        "Age between 18 and 50",
+        "Income <= 120000",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Total Loan Amount: The scheme provides financial assistance of ₹50,000 for eligible female beneficiaries. Subsidy Provided: A subsidy of ₹10,000 is granted, reducing the effective loan burden on the beneficiary Loan Component: The remaining ₹40,000 is provided as a loan with an affordable interest rate of 5% per annum.",
+      "documents": "Completed application form from the LIDCOM District Office. Recent passport-size photograph. Valid Income Certificate (issued by an authorized government officer). Caste Certificate (Charmakar Community). Proof of Residence (Maharashtra). 7/12 Land Extract: Applicant’s name, joint name with husband, or husband’s name (with affidavit) for agricultural loans. Knowledge or experience proof relevant to the proposed business/project.",
+      "application_link": "Step 1: The interested applicant should visit (during office hours) the District Office of  Leather Industries Development Corporation of Maharashtra (LIDCOM),  and request the hard copy of the prescribed format of the application form from the concerned authority. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the District Office of  Leather Industries Development Corporation of Maharashtra (LIDCOM). Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). NOTE: Ensure that the application is submitted within the prescribed period, if any.",
+      "eligibility_text": "The applicant should be a permanent resident of Maharashtra. The applicant should be a female. The applicant should belong to the Charmakar Community. The applicant's age should be between 18 to 50 years. The applicant must have knowledge of the business for which they are applying for a loan. The applicant must have her own name, or joint name with her husband, or her husband’s name (with affidavit) on the 7/12 land extract for agricultural project loans. For the 50% Subsidy Scheme and Margin Money, her annual income must be below the poverty line. For the NSFDC Scheme, the income limit is ₹98,000 for rural areas and ₹1,20,000 for urban areas."
+    },
+    {
+      "scheme_name": "Micro Credit Finance",
+      "match_score": 100,
+      "why_eligible": "Age between 18 and 50; Income <= 120000; State matched",
+      "matched_rules": [
+        "Age between 18 and 50",
+        "Income <= 120000",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Financial support ranging from ₹25,000 to ₹50,000 to invest in income-generating activities. A low interest rate of 5% per annum, making it easier to repay the loan. ₹10,000 provided as a subsidy to reduce the financial burden.",
+      "documents": "Passport-size photograph Aadhaar Card Income certificate Caste certificate Residence proof Bank passbook/bank details Any other documents as required",
+      "application_link": "Step 1: The interested applicant should visit (during office hours) the District Office of the Leather Industries Development Corporation of Maharashtra (LIDCOM), and request the hard copy of the prescribed format of the application form from the concerned authority. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the concerned authority. Step 4: Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). NOTE: Ensure that the application is submitted within the prescribed period, if any.",
+      "eligibility_text": "The applicant should belong to the Charmakar Community. The applicant should be between 18 to 50 years of age. The applicant should be a permanent resident of Maharashtra. The applicant should belong to a Below Poverty Line (BPL) category. The applicant should be able to provide an Income and Caste Certificate from an authorized government officer. The applicant must have knowledge of the business for which they are applying for the loan. For the 50% Subsidy Scheme and Margin Money, the annual income must be below the poverty line. For the NSFDC Scheme, the annual income should be ₹98,000 for rural areas and ₹1,20,000 for urban areas."
+    },
+    {
+      "scheme_name": "Shaktidoot Scheme",
+      "match_score": 100,
+      "why_eligible": "Age up to 20; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "Age up to 20",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Financial Support: Up to ₹25,00,000/- per year for Olympic-level (2020/2024) athletes. Sports Equipment: Custom kits and advanced training tools. Medical Coverage: ₹5,00,000/- mediclaim and accidental death insurance. Nutrition and Diet Plans: Customized diet plans and financial aid for supplementary nutrition. Psychological Workshops: Mental training and focus improvement sessions. International Training and Competition: Travel and training expenses for global events. Accommodation and Coaching: Expert coaching and necessary arrangements for advanced training.. Duration of benefits: The initial duration is 2 years, which can be extended for up to 7 years based on the athlete's performance and progress.",
+      "documents": "Proof of residence. Birth certificate. Sports achievement certificates (last two years). Endorsement from recognized sports authorities. Medical fitness certificate. Bank account details for financial transactions. Undertaking of not using banned substances. Any other documents (if required).",
+      "application_link": "Step-1: The Sports Authority of Gujarat publishes a public tender in daily newspapers, inviting applications for the scheme. Step-2: Applicants must ensure they meet the eligibility criteria specified in the scheme before applying. Step-3: Interested players must fill out the application form and submit it along with the required documents within the specified deadline. Step-4: The Sports Authority of Gujarat verifies the submitted documents and reviews the applicant’s achievements and qualifications. Step-5: A committee evaluates the applications based on the applicant’s performance, potential, and adherence to eligibility criteria. Step-6: Selected applicants are informed through official communication from the Sports Authority of Gujarat. Step-7: Successful applicants are enrolled in the scheme and begin receiving the specified benefits and support.",
+      "eligibility_text": "The applicant must have participated in games recognized by the School Games Federation of India or included in the Commonwealth Games, Asian Games, Afro-Asian Games, or Olympics, as determined by a committee appointed by the Government. The applicant must below 20 years of age. The applicant must have won state-level competitions based on their sporting achievements. The applicant must have achieved success in junior or sub-junior competitions of the open category organized by a recognized All India Federation, prioritized based on their accomplishments. The applicant must not use banned substances or have any impairment that disqualifies them from participation, as such individuals will be immediately dropped from the scheme. Note: The applicant’s sports achievements over the previous two years will be considered for selection under the scheme. The above criteria for eligibility will be generally taken into account but the committee may decide to grant such players an exceptional status under this scheme in view of the exceptional achievements of any athlete, in order to expand his talent at the international level and to fully develop his abilities."
+    }
+  ],
+  "profile_2": [
+    {
+      "scheme_name": "Centrally Sponsored Scheme of Post-Matric Scholarship for OBC, EBC  and DNT Students for studying in India",
+      "match_score": 88,
+      "why_eligible": "No specific age criteria mentioned; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Components of the Scholarship Maintenance allowance for the complete duration of the course. Reimbursement of compulsory non-refundable fees. Study tour charges (if applicable). Thesis typing/printing charges (for research scholars). Book allowance for students pursuing correspondence courses. Additional allowances for students with disabilities. Financial Support Breakdown Category of Courses Academic Allowance (Yearly in ₹) Tuition Fee (Yearly in ₹) Total (Yearly in ₹) Group 1: Degree and Post Graduate level professional courses 10,000 10,000 20,000 Group 2: Other Professional Courses leading to Degree, Diploma, Certificate 8,000 5,000 13,000 Group 3: Graduate and Post Graduate courses not covered under Group 1 & Group 2 6,000 2,000 8,000 Group 4: All post-matriculation (Post Class X level) non-degree courses 5,000 0 5,000 *Students pursuing C.A./I.C.W.A./C.S./I.C.F.A. shall be treated as day scholars for academic allowance purposes. *Students studying through correspondence/online courses shall not be eligible for academic allowance. *Tuition fees shall be paid to online/correspondence students. *The State Governments may, if they decide, top up the academic allowance from their own resources. *The scholarship amount will be disbursed annually to the bank account of the beneficiary. *The scholarship continues for the duration of the course, subject to satisfactory academic progress.",
+      "documents": "Aadhaar Card Caste Certificate Domicile Certificate Admission Letter from the Recognized Institution Fee Receipt Freeship Card, issued by State/District Authority Bank Account Details, for Direct Benefit Transfer Previous Academic Marksheets Accreditation Proof of Institution (For verification of NAAC/NBA accreditation)",
+      "application_link": "Registration Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana. Step 2: In the menu ribbon, click \"Student > Student Registration \". Step 3: On the next page, provide your Parivar Pehchan Patra (Family ID) and click \"Search\". *Parivar Pehchan Patra (PPP) is mandatory for availing of any Scholarship benefit. Students are advised to ensure their all particulars such as Name, DOB, Aadhar No. etc are fully updated in PPP before applying for any scholarship scheme. Step 4: A List of the members of your family will be displayed. Select the checkbox against your name and click \"Generate OTP\". Enter the OTP received on your registered Mobile Number and click on \"Verify OTP\". Step 5: After OTP verification, you will be taken to the registration page. In the registration form, all the mandatory fields get auto-filled. You only need to cross-check the information. Step 6: Select your Department and College. Create a Password and click \"Register\". Application Step 1: Visit the Official Website of the \"Centralized Scholarship Portal\" of the Department of Higher Education, Haryana. Step 2: In the right corner of the menu ribbon, click \" User Login \". Use the username and password created during your registration to log in. Step 3: Navigate to the online form of the scheme you intend to apply for. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Step 4: Click \"Apply\" to submit your application. You'll receive a confirmation message.",
+      "eligibility_text": "The applicant should be from Other Backward Classes (OBC) / Economically Backward Classes (EBC) or from Denotified, Nomadic, and Semi-Nomadic Tribes (DNT). The applicant should be studying at the post-matriculation or post-secondary stage of education. The applicant should be permanently settled in the State/UT where they are applying. The applicant should be studying in an institution recognized by the All India Survey on Higher Education (AISHE) or Unified District Information System for Education (UDISE). The applicant's institution should have National Assessment and Accreditation Council (NAAC) or National Board of Accreditation (NBA) accreditation. The applicant should maintain Aadhaar-based attendance in the institution. The applicant must have a valid \"Freeship Card\" issued by the State/District Authority. Preference/Priority/Reservation/Relaxation: A maximum of 20 slots per annum are reserved for Commercial Pilot License courses, including helicopter and multi-engine training."
+    },
+    {
+      "scheme_name": "Computer Training Scheme",
+      "match_score": 88,
+      "why_eligible": "No specific age criteria mentioned; Income <= 100000; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "Income <= 100000",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Course Details S. No. Training Name Duration Fee 1 For ‘O’ computer training 1 month A maximum upto Rs. 15,000/- per trainee (In three phases) 2 For ‘CCC’ computer training 3 months A maximum upto Rs. 3,500/- per trainee ﻿",
+      "documents": "Income Certificate. Caste Certificate. Intermediate Marks Sheet. Applicant photograph.",
+      "application_link": "First of all, the trainee has to log in on the official website http://obccomputertraining.upsdc.gov.in ﻿ Trainee should enter his/her name and mobile number for registration. Trainee should enter the OTP in the appropriate box for verification, which is received on the registered mobile number. The trainee should log in with the username and password, which was received on the mobile number. The trainee should log in after entering a username, password, and captcha code in the appropriate fields After login, the trainee should enter the information in the appropriate columns and upload the documents (Income Certificate, Caste Certificate, Intermediate Marks Sheet, self-photograph, etc.) Trainee should finally lock the application after save. Trainee should take the printout of the application form, attach all the enclosures and submit the same to the office of the District Backward Classes Welfare Officer of the concerned district.",
+      "eligibility_text": "Domicile of Uttar Pradesh. Unemployed youth who passed the Intermediate examination (10+2). The annual income of parents/guardians should be up to Rs. 1,00,000/- or less."
+    },
+    {
+      "scheme_name": "ICAR Junior Research Fellowship For Post-Graduate Studies In Agricultural Sciences",
+      "match_score": 88,
+      "why_eligible": "No specific age criteria mentioned; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Veterinary Sciences: ₹ 12,000/- per month With a contingency grant of ₹ 6,000/- per annum. All disciplines other than Veterinary Sciences: ₹ 8,640/- per month With a contingency grant of ₹ 6,000/- per annum. The rates of fellowship and contingency grants for higher studies will be as prescribed by the Council from time to time.",
+      "documents": "Саndidаte’s Рhоtоgrарh Саndidаte’s Signаture Thumb Imрressiоn Gоvt Identity Саrd Detаils like Ааdhааr Number /Eleсtiоn Саrd (EРIС Nо.)/Раssроrt number/Rаtiоn Саrd Number/ Bаnk Ассоunt Number/РАN Number/ Оther vаlid Gоvt Ids. Three identiсаl сорies оf the lаtest раssроrt size соlоured рhоtоgrарhs (with nаme аnd dаte) Сорy оf раyment оf аррliсаtiоn Fee (as рrооf) Роst-оffiсe reсeiрt аs роstаl disраtсh рrооf оf аррliсаtiоn. Аddress fоr соmmuniсаtiоn, Mоbile Number, emаil id, etс. Bаnk Ассоunt Detаils. Note: The Thumb Imрressiоn used fоr filling the Оnline Аррliсаtiоn Fоrm fоr IСАR exam shоuld be Left (fоr Mаles) аnd Right (fоr Femаles).",
+      "application_link": "Step 1: Candidates need to aррly fоr Оnline Registrаtiоn by using a unique Emаil Id аnd Mоbile Nо. Step 2: Nоw, fill in the neсessаry detаils suсh аs Рersоnаl Detаils, Соntасt Detаils, Асаdemiс Quаlifiсаtiоns, etс. Step 3: Uрlоаd the required documents like the sсаnned рhоtоgrарh, signаture, аnd thumb imрressiоn аfter filling uр the detаils. Step 4: Nоw, Раy the Аррliсаtiоn Fees. Step 5: Аfter filling the аррliсаtiоn fоrm, саndidаtes will get the system generаted Аррliсаtiоn Number. Step 6: Оn соmрleting the аbоve рrосess аррliсаnts will hаve tо send the hаrd сорy оf the оnline аррliсаtiоn аnd рrооf оf fee раyment tо the СОE (Аgril. Edn.) by роst. Application Correction: After submitting the application form for ICAR JRF candidates will get a chance to correct their mistakes. The NTA will provide a correction window to edit the application for the last time. With the help of credentials, candidates can update the application form and rectify their mistakes. No further chance will be given to candidates if they fail to correct their application in this window.",
+      "eligibility_text": "Method of Award: ICAR-JRF (PGS) will be awarded on the basis of merit in the All India Competitive Entrance Examination for - (i) ICAR-JRF (PGS), and (ii) concurrent admission to Master’s degree program at - a) State Agricultural Universities (SAUs), and b) Deemed Universities viz. IARI (New Delhi) / IVRI (Izatnagar) / NDRI (Karnal) / CIFE (Mumbai) / AAU (Allahabad), Central Agricultural University (Imphal, Manipur), and c) Central Universities having faculty of agriculture viz. Banaras Hindu University (BHU), Aligarh Muslim University (AMU), Visva Bharti, and Nagaland University, collectively hereinafter referred to as the Agricultural Universities (AUs). Eligibility Only those candidates having passed their Bachelor’s Degree or appearing at the Final Examination of the Bachelor’s Degree in the concerned field, under 10+2+5, 10+2+4 or 10+2+3 (only for basic science subjects) are eligible to apply for admission. (For admission, the eligibility requirement laid down by the respective AUs including remedial courses and tenure will be treated as final.) Candidates must have obtained 60% marks or an Overall Grade Point Average (OGPA) of 6.60/10.00 or 3.25/5.00 or 2.6/4.00 for General, OBC, and Under Privileged States(UPS) categories whereas, for SC/ST/Physically Handicapped (PH) categories, the candidates must have obtained 55% marks or an OGPA of 5.5/10.00 or 2.75/5.00 or 2.20/4.00. The equivalence of OGPA to percent marks, where needed, will be certified by the Registrar of the concerned University For admission in M.V.Sc., candidates must have completed B.V.Sc.&A.H. with internship before the date of registration in the University. The minimum age limit shall be 19 years as of the date of the examination. No relaxation is admissible regarding the minimum age limit. Note 1: Reservation of various categories such as SC/ST/OBC and PH etc. will be given as per Government of India rules/instructions issued from time to time. The responsibility of verification of the genuineness of SC/ST/OBC and PH certificates will solely rest with the concerned Agricultural University (AU) where the candidate has been recommended for admission or granted provisional admission. Note 2: The ICAR-JRF (PGS) will NOT be available for admission in any university other than the AUs as mentioned above."
+    },
+    {
+      "scheme_name": "ICAR Senior Research Fellowship For Post-Graduate Studies In Agricultural Sciences",
+      "match_score": 88,
+      "why_eligible": "No specific age criteria mentioned; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Veterinary Sciences: ₹ 12,000/- per month With a contingency grant of ₹ 6,000/- per annum. All disciplines other than Veterinary Sciences: ₹ 8,640/- per month With a contingency grant of ₹ 6,000/- per annum. ﻿ The rates of fellowship and contingency grants for higher studies will be as prescribed by the Council from time to time.",
+      "documents": "Candidates must be ready with the following documents while filling out the Application form. Candidate’s Photograph (file size: 10 kb - 200 kb) Candidate’s Signature (file size: 4kb - 30kb) Thumb impression (file size: 3kb-30kb) Govt Identity Details like Aadhaar Number /Election Card (EPIC No.)/Passport number/Ration Card Number/ Bank Account Number/PAN Number/ Other valid Govt Ids. Three identical copies of the latest passport-size colored photographs (with name and date) Copy of payment of application fee (As proof) Post-office receipt as postal dispatch proof of application. Address for communication, Mobile Number, email id, etc Bank Account details for payment of Fee, for uploading as part of the submission of the online application. ﻿ Note - The Thumb Impression used for filling the Online Application Form for ICAR, should be Left (for Males) and Right (for Females),",
+      "application_link": "Step 1: Candidates need to aррly fоr Оnline Registrаtiоn by using a unique Emаil Id аnd Mоbile Nо. Step 2: Nоw, fill in the neсessаry detаils suсh аs Рersоnаl Detаils, Соntасt Detаils, Асаdemiс Quаlifiсаtiоns, etс. Step 3: Uрlоаd the required documents like the sсаnned рhоtоgrарh, signаture, аnd thumb imрressiоn аfter filling uр the detаils. Step 4: Nоw, Раy the Аррliсаtiоn Fees. Step 5: Аfter filling the аррliсаtiоn fоrm, саndidаtes will get the system generаted Аррliсаtiоn Number. Step 6: Оn соmрleting the аbоve рrосess аррliсаnts will hаve tо send the hаrd сорy оf the оnline аррliсаtiоn аnd рrооf оf fee раyment tо the СОE (Аgril. Edn.) by роst. ﻿ Application Correction After submitting the application form for ICAR SRF candidates will get a chance to correct their mistakes. The NTA will provide a correction window to edit the application for the last time. With the help of credentials, candidates can update the application form and rectify their mistakes. No further chance will be given to candidates if they fail to correct their application in this window.",
+      "eligibility_text": "Method of Award ICAR-SRF (PGS) will be awarded on the basis of merit in the All India Competitive Entrance Examination for - (i) ICAR-SRF (PGS), and (ii) concurrent admission to Master’s degree program at - a) State Agricultural Universities (SAUs), and b) Deemed Universities viz. IARI (New Delhi) / IVRI (Izatnagar) / NDRI (Karnal) / CIFE (Mumbai) / AAU (Allahabad), Central Agricultural University (Imphal, Manipur), and c) Central Universities having faculty of agriculture viz. Banaras Hindu University (BHU), Aligarh Muslim University (AMU), Visva Bharti, and Nagaland University, collectively hereinafter referred to as the Agricultural Universities (AUs). ﻿ Eligibility Candidates having completed their Master’s degree program with a minimum of 55% marks or an OGPA of 5.5/10.00 or 2.75/5.00 or 2.20/4.00 or an equivalent OGPA from any recognized University in India and abroad would be eligible. For SC/ST and Physically Handicapped (PH) candidates, the minimum percentage of marks will be relaxed by 5 percent or an equivalent OGPA. The equivalence of OGPA to percent marks, where needed, will be certified by the Registrar of the concerned University. Candidates appearing in the final semester would also be eligible provided they complete their postgraduate degree in all respects by the date of examination and produce the complete degree certificate from the Registrar to this effect. The fellowship would be granted only when the candidate gets eventually admitted and pursues a Ph.D. degree in an Agricultural University(AU) other than the Agricultural University(AU) from where the candidate has completed M.Sc./M.V.Sc./ M.E./M.Tech. degree. The upper age limit would be 30 years as of the date of the examination. For SC/ST & PH categories, the upper age limit will be relaxed by 5 years. For OBC the upper age limit will be relaxed by 3 years. For in-service candidates of Agricultural Universities (AU), the upper age limit would be 45 years as of the date of examination whereas, the academic performance requirement would remain as stated above. ﻿ NOTE 1: Reservation of various categories such as SC/ST/OBC and PH etc. will be given as per Government of India rules/instructions issued from time to time. The responsibility of verification of the genuineness of SC/ST/OBC and PH certificates will solely rest with the concerned Agricultural University (AU) where the candidate has been recommended for admission or granted provisional admission. ﻿ NOTE 2: The ICAR-SRF (PGS) will NOT be available for admission in any university other than the AUs as mentioned above. ﻿"
+    },
+    {
+      "scheme_name": "Agriculture Academic Studies Scheme",
+      "match_score": 78,
+      "why_eligible": "No specific age criteria mentioned; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open"
+      ],
+      "failed_rules": [
+        "Occupation/status not matched"
+      ],
+      "benefits": "Pattern of Assistance: Sponsorship of seats, book grants, and scholarships. Type of Assistance and Entitlement (If any): Monthly stipend @ ₹1,200/-. Book grant @₹1,200/- per academic year.",
+      "documents": "Admit Cards — X, XII Mark Sheets — X, XII Birth Certificate Caste Certificate in respect of SC, ST and OBC All candidates are required to submit the Permanent Residential Certificate (PRC) issued by the Competent Authority Character Certificate from the Institution last attended Medical Fitness Certificate issued by the concerned| District Medical and Health Officer (DM&HO) /CHC to be produced in original during counselling 2(two) Nos. Passport size photograph duly attested by a Gazetted Officer to be submitted during counselling Any other documents as required",
+      "application_link": "Application Process: Students can apply online from the Department website https://www.megagriculture.gov.in Or https://megedistrict.gov.in ﻿ Mode of Selection of Beneficiary(s): Selection is based on merit- ICAR AIEEA and other conditions of eligibility criteria and on the State Reservation Policy. Whom to Contact: Applicants are advised to follow the advertisements which usually appear during May-June in major newspapers of the State/visit the Department website https://www.megagriculture.gov.in Or https://megedistrict.gov.in. ﻿",
+      "eligibility_text": "The applicant/student should be a permanent resident of Meghalaya. Students interested in pursuing a four-year degree course in Agriculture/Horticulture can apply under the scheme. The students, general & OBC category, who should have passed 10+2 in the Science stream with 55% aggregate marks having Physics, Chemistry, Biology & English as compulsory subjects are eligible under the scheme. The students, SC & ST category, who should have passed 10+2 in the Science stream with 45% aggregate marks having Physics, Chemistry, Biology & English as compulsory subjects are eligible under the scheme. The applicant should also qualify for the Indian Council of Agricultural Research (ICAR) All India Entrance Examinations for Admission (AIEEA) conducted by the National Testing Agency (NTA)."
+    }
+  ],
+  "profile_3": [
+    {
+      "scheme_name": "ICAR Junior Research Fellowship For Post-Graduate Studies In Agricultural Sciences",
+      "match_score": 88,
+      "why_eligible": "No specific age criteria mentioned; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [],
+      "benefits": "Veterinary Sciences: ₹ 12,000/- per month With a contingency grant of ₹ 6,000/- per annum. All disciplines other than Veterinary Sciences: ₹ 8,640/- per month With a contingency grant of ₹ 6,000/- per annum. The rates of fellowship and contingency grants for higher studies will be as prescribed by the Council from time to time.",
+      "documents": "Саndidаte’s Рhоtоgrарh Саndidаte’s Signаture Thumb Imрressiоn Gоvt Identity Саrd Detаils like Ааdhааr Number /Eleсtiоn Саrd (EРIС Nо.)/Раssроrt number/Rаtiоn Саrd Number/ Bаnk Ассоunt Number/РАN Number/ Оther vаlid Gоvt Ids. Three identiсаl сорies оf the lаtest раssроrt size соlоured рhоtоgrарhs (with nаme аnd dаte) Сорy оf раyment оf аррliсаtiоn Fee (as рrооf) Роst-оffiсe reсeiрt аs роstаl disраtсh рrооf оf аррliсаtiоn. Аddress fоr соmmuniсаtiоn, Mоbile Number, emаil id, etс. Bаnk Ассоunt Detаils. Note: The Thumb Imрressiоn used fоr filling the Оnline Аррliсаtiоn Fоrm fоr IСАR exam shоuld be Left (fоr Mаles) аnd Right (fоr Femаles).",
+      "application_link": "Step 1: Candidates need to aррly fоr Оnline Registrаtiоn by using a unique Emаil Id аnd Mоbile Nо. Step 2: Nоw, fill in the neсessаry detаils suсh аs Рersоnаl Detаils, Соntасt Detаils, Асаdemiс Quаlifiсаtiоns, etс. Step 3: Uрlоаd the required documents like the sсаnned рhоtоgrарh, signаture, аnd thumb imрressiоn аfter filling uр the detаils. Step 4: Nоw, Раy the Аррliсаtiоn Fees. Step 5: Аfter filling the аррliсаtiоn fоrm, саndidаtes will get the system generаted Аррliсаtiоn Number. Step 6: Оn соmрleting the аbоve рrосess аррliсаnts will hаve tо send the hаrd сорy оf the оnline аррliсаtiоn аnd рrооf оf fee раyment tо the СОE (Аgril. Edn.) by роst. Application Correction: After submitting the application form for ICAR JRF candidates will get a chance to correct their mistakes. The NTA will provide a correction window to edit the application for the last time. With the help of credentials, candidates can update the application form and rectify their mistakes. No further chance will be given to candidates if they fail to correct their application in this window.",
+      "eligibility_text": "Method of Award: ICAR-JRF (PGS) will be awarded on the basis of merit in the All India Competitive Entrance Examination for - (i) ICAR-JRF (PGS), and (ii) concurrent admission to Master’s degree program at - a) State Agricultural Universities (SAUs), and b) Deemed Universities viz. IARI (New Delhi) / IVRI (Izatnagar) / NDRI (Karnal) / CIFE (Mumbai) / AAU (Allahabad), Central Agricultural University (Imphal, Manipur), and c) Central Universities having faculty of agriculture viz. Banaras Hindu University (BHU), Aligarh Muslim University (AMU), Visva Bharti, and Nagaland University, collectively hereinafter referred to as the Agricultural Universities (AUs). Eligibility Only those candidates having passed their Bachelor’s Degree or appearing at the Final Examination of the Bachelor’s Degree in the concerned field, under 10+2+5, 10+2+4 or 10+2+3 (only for basic science subjects) are eligible to apply for admission. (For admission, the eligibility requirement laid down by the respective AUs including remedial courses and tenure will be treated as final.) Candidates must have obtained 60% marks or an Overall Grade Point Average (OGPA) of 6.60/10.00 or 3.25/5.00 or 2.6/4.00 for General, OBC, and Under Privileged States(UPS) categories whereas, for SC/ST/Physically Handicapped (PH) categories, the candidates must have obtained 55% marks or an OGPA of 5.5/10.00 or 2.75/5.00 or 2.20/4.00. The equivalence of OGPA to percent marks, where needed, will be certified by the Registrar of the concerned University For admission in M.V.Sc., candidates must have completed B.V.Sc.&A.H. with internship before the date of registration in the University. The minimum age limit shall be 19 years as of the date of the examination. No relaxation is admissible regarding the minimum age limit. Note 1: Reservation of various categories such as SC/ST/OBC and PH etc. will be given as per Government of India rules/instructions issued from time to time. The responsibility of verification of the genuineness of SC/ST/OBC and PH certificates will solely rest with the concerned Agricultural University (AU) where the candidate has been recommended for admission or granted provisional admission. Note 2: The ICAR-JRF (PGS) will NOT be available for admission in any university other than the AUs as mentioned above."
+    },
+    {
+      "scheme_name": "Airavata Scheme",
+      "match_score": 80,
+      "why_eligible": "Age 21+; Income <= 500000; State matched",
+      "matched_rules": [
+        "Age 21+",
+        "Income <= 500000",
+        "State matched",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [
+        "Category not matched"
+      ],
+      "benefits": "Beneficiary: Unemployed youth The beneficiaries will get up to rupees 5 lakh subsidy and financial help from the government side. The Karnataka government will cover around 1000 SC/ST Taxi drivers and this Airavata scheme.When other state social welfare department dr. Bhimrao Ambedkar Development Corporation can work together with the government to provide the full benefit of the SC-ST community. This will help people to become self-dependent and provide the opportunity of employment. Due to covid-19 who have lost their jobs can now become an entrepreneur. Karnataka Airavata Taxi scheme uh uh often the opportunity of self-employment for poor peoples. The government will invest around 225 crore rupees in this Yojana. The Madiga and its related community in Karnataka will be able to make their life more secure. The beneficiaries will get a 50% subsidy on the scheme. The remaining money should be arranged by the applicants.",
+      "documents": "Aadhar card Bonafide certificate PAN card Rashan card Passport size photograph Driving License Category certificate Age proof certificate Valid mobile number ﻿ ﻿",
+      "application_link": "Step 1. First of all, visit the official website of the scheme. Step 2. You will be redirected to the homepage. Step 3. On the Homepage, the option Karnataka Airavata scheme registration form. Step 4. After that, you will be redirected to the application form. Step 5. Before going to fill in all the details on the application form. Step 6. You need to sign in under the Airavata scheme. ﻿",
+      "eligibility_text": "1. The applicant should belong to the Scheduled caste community 2. The applicant should be a resident of Karnataka 3. The applicant should be above 21 years of age 4. The applicant must hold a valid driving license and a cab badge 5. The applicant’s family annual income should not exceed Rs. 5,00,000/- 6. Applicant will be considered ineligible if they/their family member has earlier availed a subsidy from the Corporation/Government of Karnataka exceeding Rs.1,00,000. 7. The selection of applicants will be based on merit and merit will be decided upon parameters such as Age, Education qualification, cab badge and years of driving experience"
+    },
+    {
+      "scheme_name": "Prerana (micro Credit Finance) Scheme",
+      "match_score": 80,
+      "why_eligible": "Age 21+; Income <= 200000; State matched",
+      "matched_rules": [
+        "Age 21+",
+        "Income <= 200000",
+        "State matched",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [
+        "Category not matched"
+      ],
+      "benefits": "Beneficiary: Scheduled Caste/Scheduled Tribe Women Encourage women from the Schedule caste community and economically empower them. To support taking up of economic activities Financial assistance of Rs.25000/- which includes Rs.15000/-subsidy and Rs.10000/- loan at 4% interest rate per annum. ﻿ ﻿",
+      "documents": "Passport size photo with application Certificate belonging to Scheduled Caste/Scheduled Tribe Annual family income Certificate Family ration card Voter ID card Aadhar card Family Tree Landless Land Workers Certificate (Land Ownership Plan) ﻿",
+      "application_link": "﻿",
+      "eligibility_text": "Self Help Group (SHG). The applicant should belong to the Scheduled caste/Scheduled Tribe community. The applicant should be a resident of Karnataka. The applicant should be above 21 years of age. The family’s annual income should not exceed Rs. 1,50,000 for rural and Rs. 2,00,000 for Urban applicant. Applicant will be considered ineligible if they/their family member has earlier availed a subsidy from the Corporation/Government of Karnataka. The applicant should be a member or should avail membership of such self- help group. The self-help group seeking self-employment opportunity should possess a stall/unit with minimum of 200 sft (rent/lease/own). An agreement stating that the applicants will be a part of the self-help group, detailed description about their business activity and sharing of income generated should be submitted to the corporation. The grant and the loan component provided should be used as the primary source of finance. The selected candidate if at any stage is found ineligible such sanction from the corporation stands cancelled. ﻿"
+    },
+    {
+      "scheme_name": "Shaktidoot Scheme",
+      "match_score": 80,
+      "why_eligible": "No explicit income ceiling; State matched; Category matched or open",
+      "matched_rules": [
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open",
+        "Occupation/status matched or open"
+      ],
+      "failed_rules": [
+        "Age must be up to 20"
+      ],
+      "benefits": "Financial Support: Up to ₹25,00,000/- per year for Olympic-level (2020/2024) athletes. Sports Equipment: Custom kits and advanced training tools. Medical Coverage: ₹5,00,000/- mediclaim and accidental death insurance. Nutrition and Diet Plans: Customized diet plans and financial aid for supplementary nutrition. Psychological Workshops: Mental training and focus improvement sessions. International Training and Competition: Travel and training expenses for global events. Accommodation and Coaching: Expert coaching and necessary arrangements for advanced training.. Duration of benefits: The initial duration is 2 years, which can be extended for up to 7 years based on the athlete's performance and progress.",
+      "documents": "Proof of residence. Birth certificate. Sports achievement certificates (last two years). Endorsement from recognized sports authorities. Medical fitness certificate. Bank account details for financial transactions. Undertaking of not using banned substances. Any other documents (if required).",
+      "application_link": "Step-1: The Sports Authority of Gujarat publishes a public tender in daily newspapers, inviting applications for the scheme. Step-2: Applicants must ensure they meet the eligibility criteria specified in the scheme before applying. Step-3: Interested players must fill out the application form and submit it along with the required documents within the specified deadline. Step-4: The Sports Authority of Gujarat verifies the submitted documents and reviews the applicant’s achievements and qualifications. Step-5: A committee evaluates the applications based on the applicant’s performance, potential, and adherence to eligibility criteria. Step-6: Selected applicants are informed through official communication from the Sports Authority of Gujarat. Step-7: Successful applicants are enrolled in the scheme and begin receiving the specified benefits and support.",
+      "eligibility_text": "The applicant must have participated in games recognized by the School Games Federation of India or included in the Commonwealth Games, Asian Games, Afro-Asian Games, or Olympics, as determined by a committee appointed by the Government. The applicant must below 20 years of age. The applicant must have won state-level competitions based on their sporting achievements. The applicant must have achieved success in junior or sub-junior competitions of the open category organized by a recognized All India Federation, prioritized based on their accomplishments. The applicant must not use banned substances or have any impairment that disqualifies them from participation, as such individuals will be immediately dropped from the scheme. Note: The applicant’s sports achievements over the previous two years will be considered for selection under the scheme. The above criteria for eligibility will be generally taken into account but the committee may decide to grant such players an exceptional status under this scheme in view of the exceptional achievements of any athlete, in order to expand his talent at the international level and to fully develop his abilities."
+    },
+    {
+      "scheme_name": "Agriculture Academic Studies Scheme",
+      "match_score": 78,
+      "why_eligible": "No specific age criteria mentioned; No explicit income ceiling; State matched",
+      "matched_rules": [
+        "No specific age criteria mentioned",
+        "No explicit income ceiling",
+        "State matched",
+        "Category matched or open"
+      ],
+      "failed_rules": [
+        "Occupation/status not matched"
+      ],
+      "benefits": "Pattern of Assistance: Sponsorship of seats, book grants, and scholarships. Type of Assistance and Entitlement (If any): Monthly stipend @ ₹1,200/-. Book grant @₹1,200/- per academic year.",
+      "documents": "Admit Cards — X, XII Mark Sheets — X, XII Birth Certificate Caste Certificate in respect of SC, ST and OBC All candidates are required to submit the Permanent Residential Certificate (PRC) issued by the Competent Authority Character Certificate from the Institution last attended Medical Fitness Certificate issued by the concerned| District Medical and Health Officer (DM&HO) /CHC to be produced in original during counselling 2(two) Nos. Passport size photograph duly attested by a Gazetted Officer to be submitted during counselling Any other documents as required",
+      "application_link": "Application Process: Students can apply online from the Department website https://www.megagriculture.gov.in Or https://megedistrict.gov.in ﻿ Mode of Selection of Beneficiary(s): Selection is based on merit- ICAR AIEEA and other conditions of eligibility criteria and on the State Reservation Policy. Whom to Contact: Applicants are advised to follow the advertisements which usually appear during May-June in major newspapers of the State/visit the Department website https://www.megagriculture.gov.in Or https://megedistrict.gov.in. ﻿",
+      "eligibility_text": "The applicant/student should be a permanent resident of Meghalaya. Students interested in pursuing a four-year degree course in Agriculture/Horticulture can apply under the scheme. The students, general & OBC category, who should have passed 10+2 in the Science stream with 55% aggregate marks having Physics, Chemistry, Biology & English as compulsory subjects are eligible under the scheme. The students, SC & ST category, who should have passed 10+2 in the Science stream with 45% aggregate marks having Physics, Chemistry, Biology & English as compulsory subjects are eligible under the scheme. The applicant should also qualify for the Indian Council of Agricultural Research (ICAR) All India Entrance Examinations for Admission (AIEEA) conducted by the National Testing Agency (NTA)."
+    }
+  ]
+}
